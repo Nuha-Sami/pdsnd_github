@@ -2,6 +2,7 @@
 import time
  # Pandas is a Python data analysis library. It is used in this project to orgnise the data into 2-dimentional dataframe to speed up the access for the data. Also to perform and get some statistics on the entire dataframe.
 import pandas as pd
+ # Numpy is a fundmental numerical package in Python and it has multidimensional array data structures.
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
