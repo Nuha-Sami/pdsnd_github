@@ -236,7 +236,7 @@ def display_raw_data(df):
                 break
                 
                 
-                
+# The program will start running from this method and its sub-methods                 
 def main():
     while True:
         city, month, day = get_filters()
