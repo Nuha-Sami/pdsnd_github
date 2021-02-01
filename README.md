@@ -15,7 +15,7 @@ washington.csv
 ### Credits
 
 ### Programming language
-Python 
+Python version 3
 
 
 
