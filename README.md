@@ -1,8 +1,10 @@
 ### Date created
 Include the date you created this project and README file.
+1 Feb 2021 	Monday 
 
 ### Project Title
 Replace the Project Title
+Uploading Bikeshare project to GitHub
 
 ### Description
 Describe what your project is about and what it does
