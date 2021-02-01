@@ -1,3 +1,4 @@
+ # The time() method from the time module returns the time as a floating point number expressed in seconds. This is used to calculate the time efficiency for some functions.
 import time
 import pandas as pd
 import numpy as np
