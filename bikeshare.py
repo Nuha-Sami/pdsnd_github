@@ -1,5 +1,6 @@
  # The time() method from the time module returns the time as a floating point number expressed in seconds. This is used to calculate the time efficiency for some functions.
 import time
+ # Pandas is a Python data analysis library. It is used in this project to orgnise the data into 2-dimentional dataframe to speed up the access for the data. Also to perform and get some statistics on the entire dataframe.
 import pandas as pd
 import numpy as np
 
